@@ -1,0 +1,6 @@
+name: model-experiment-sdk-train
+dependencies:
+- pip:
+  - azureml-sdk
+  - sklearn
+  - azureml-opendatasets
